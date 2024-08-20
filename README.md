@@ -5,7 +5,6 @@
 
 > [paper]() | [arxiv](https://arxiv.org/abs/2307.09815)
 
-**The code will come soon!**
 
 
 ## Introduction
@@ -36,15 +35,11 @@ experiments (see Fig. 1).
 <img src="asset/framework.png"/>
 </div>
 
-## Requirements
 
-Please refer to [requirements.txt](./requirements.txt).
 
-## How to run
+## Run
 
-```bash
-python main.py
-```
+Place the image in the input folder and run single_image.py for single image blur map estimation and dp_image.py for DP image blur map estimation.
 
 
 ## Citation
