@@ -45,11 +45,12 @@ Place the image in the input folder and run single_image.py for single image blu
 ## Citation
 
 ```
-@article{yang2023ldp,
+@inproceedings{yang2024ldp,
   title={LDP: Language-driven Dual-Pixel Image Defocus Deblurring Network},
-  author={Yang, Hao and Pan, Liyuan and Yang, Yan and Liu, Miaomiao},
-  journal={arXiv preprint arXiv:2307.09815},
-  year={2023}
+  author={Yang, Hao and Pan, Liyuan and Yang, Yan and Hartley, Richard and Liu, Miaomiao},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={24078--24087},
+  year={2024}
 }
 ```
 
