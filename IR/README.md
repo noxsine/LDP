@@ -1,1 +1,1 @@
-
+Place the dataset (including blurmap, inputL, inputR, and target folders) in the Dataset directory and run LDP_test.py. The model.pth file can be downloaded from [Here](https://drive.google.com/drive/folders/1SrukcQo74xZDAoSqbs8avWnZcgox0m-h?usp=drive_link).
