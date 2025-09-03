@@ -39,7 +39,7 @@ experiments (see Fig. 1).
 
 ## Run
 
-Place the image in the input folder and run single_image.py for single image blur map estimation and dp_image.py for DP image blur map estimation.
+Place the image in the input folder and run single_image.py for single image blur map estimation and dp_image.py for DP image blur map estimation. Deblurring are in the IR folder.
 
 
 ## Citation
